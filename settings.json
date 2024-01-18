@@ -1,0 +1,22 @@
+{
+  // Editor config
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+
+  // Terminal config
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+
+  "symbols.hidesExplorerArrows": false,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "update.mode": "start",
+  "workbench.activityBar.location": "hidden",
+
+  "workbench.statusBar.visible": false,
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "hidden"
+}
