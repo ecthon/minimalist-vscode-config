@@ -11,12 +11,19 @@
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
+  // Workbench config    
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
+
+  // Window config
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "hidden",
+  "window.title": "👾",
+
+  // Others settings
   "symbols.hidesExplorerArrows": false,
   "security.workspace.trust.untrustedFiles": "newWindow",
-  "update.mode": "start",
-  "workbench.activityBar.location": "hidden",
-
-  "workbench.statusBar.visible": false,
-  "window.titleBarStyle": "native",
-  "window.menuBarVisibility": "hidden"
+  "update.mode": "start"
 }
