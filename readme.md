@@ -23,4 +23,5 @@ Pode ser que haja alteração nos demais SO's.
 </br></br>
 
 ## Minimalist VSCode 🪅
-Com ☕ e ❤️ por [**in/ecthon**](https://linkedin.com/in/ecthon).
+Com ☕ e ❤️ por [**in/ecthon**](https://linkedin.com/in/ecthon).</br></br>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ecthon%2Fminimalist-vscode-config&label=%F0%9F%AA%85VISITORS&countColor=%2337d67a&style=flat&labelStyle=lower)
