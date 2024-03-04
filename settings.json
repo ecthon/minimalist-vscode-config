@@ -1,29 +1,38 @@
 {
-  // Editor config
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.8,
-  "editor.fontLigatures": true,
-  "editor.tabSize": 2,
-  "editor.minimap.enabled": false,
+    // Editor config
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
 
-  // Terminal config
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    // Terminal config
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
-  // Workbench config    
-  "workbench.activityBar.location": "hidden",
-  "workbench.statusBar.visible": false,
-  "workbench.colorTheme": "Min Dark",
-  "workbench.iconTheme": "symbols",
+    // Workbench config    
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Dracula At Night",
+    "workbench.iconTheme": "symbols",
 
-  // Window config
-  "window.titleBarStyle": "native",
-  "window.menuBarVisibility": "hidden",
-  "window.title": "👾",
+    // Window config
+    "window.titleBarStyle": "native",
+    "window.menuBarVisibility": "hidden",
+    "window.title": "👾",
 
-  // Others settings
-  "symbols.hidesExplorerArrows": false,
-  "security.workspace.trust.untrustedFiles": "newWindow",
-  "update.mode": "start"
+    // Others settings
+    "symbols.hidesExplorerArrows": false,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "update.mode": "start",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
 }
